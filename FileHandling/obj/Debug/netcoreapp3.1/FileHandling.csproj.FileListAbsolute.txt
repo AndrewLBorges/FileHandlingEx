@@ -1,0 +1,13 @@
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache
